@@ -1,6 +1,6 @@
 Questo progetto simula le principali fasi di produzione dei coperchi di plastica: stampaggio, colorazione e imballaggio. Ogni fase è rappresentata da un thread separato che stampa lo stato della lavorazione e utilizza tempi di attesa per simulare il processo industriale. Il thread principale coordina le fasi usando join().
 
-2️⃣ Project Structure
+2️ Project Structure
 
 Il progetto include le seguenti classi:
 
@@ -10,18 +10,18 @@ Stampaggio	Sottoclasse che simula lo stampaggio dei coperchi
 Colorazione	Sottoclasse che simula la colorazione dei coperchi
 Imballaggio	Sottoclasse che simula l’imballaggio dei coperchi
 ProduzioneCoperchi	Classe principale che avvia e coordina tutte le fasi
-3️⃣ Installation Requirements
+3️ Installation Requirements
 
 Clona il repository:
 Assicurati di avere Java JDK 8 o superiore installato.
 
 Compila tutti i file .java ed esegui il programma principale.
 
-4️⃣ Usage
+4️4 Usage
 
 Il programma simula la produzione completa dei coperchi, mostrando l’inizio e la fine di ogni fase:
 
-🏭 Avvio del processo di produzione dei coperchi di plastica...
+ Avvio del processo di produzione dei coperchi di plastica...
 
  [Stampaggio dei coperchi] Inizio lavorazione...
  [Stampaggio dei coperchi] Fase completata.
