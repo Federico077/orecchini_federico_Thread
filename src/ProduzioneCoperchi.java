@@ -13,7 +13,7 @@ public class ProduzioneCoperchi {
 
         //  Avvio dello stampaggio
         stampaggio.start();
-        //
+        ///
 
         try {
             // Attendo che la fase di stampaggio termini prima di passare alla successiva
