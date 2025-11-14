@@ -6,3 +6,4 @@ public class Stampaggio extends FaseProduzione {
         super("Stampaggio dei coperchi di plastica", 1000);
     }
 }
+//
