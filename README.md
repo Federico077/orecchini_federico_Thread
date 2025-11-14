@@ -17,7 +17,7 @@ Assicurati di avere Java JDK 8 o superiore installato.
 
 Compila tutti i file .java ed esegui il programma principale.
 
-4️4 Usage
+4️ Usage
 
 Il programma simula la produzione completa dei coperchi, mostrando l’inizio e la fine di ogni fase:
 
@@ -32,7 +32,7 @@ Il programma simula la produzione completa dei coperchi, mostrando l’inizio e 
 
  Tutte le fasi di produzione dei coperchi sono completate con successo!
 
-5️ How It Works
+5️ Come funziona
 
 Ogni fase di produzione è un thread separato.
 
